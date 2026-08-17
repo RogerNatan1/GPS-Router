@@ -1,6 +1,6 @@
 # GPS-Router
 
-GPS-Router é um app React construído com Vite para ajudar a montar e otimizar rotas com vários endereços. O usuário adiciona destinos, o sistema calcula a melhor ordem de visita usando geocodificação e depois abre a rota no Google Maps ou no Waze.
+GPS-Router é um app React construído com Vite para ajudar a montar e otimizar rotas com vários endereços. O usuário adiciona destinos, o sistema calcula a melhor ordem de visita usando geocodificação e depois abre a rota no Google Maps.
 
 ## Como funciona
 
